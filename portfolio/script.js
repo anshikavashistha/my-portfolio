@@ -36,38 +36,38 @@ $(document).ready(function() {
     });
 
     $('.pro1').click(function() {
-        window.open('https://github.com/bhumithakur/Predict-the-price-of-iphone');
+        window.open('https://github.com/anshikavashistha/Chest-Ray-segmentation');
     });
 
     $('.pro2').click(function() {
-        window.open('https://github.com/bhumithakur/covid-detector');
+        window.open('https://github.com/CareBridge-HealthConnect-for-All/CareBridge');
     });
 
     $('.pro3').click(function() {
-        window.open('https://github.com/bhumithakur/waether_forecasting_web');
+        window.open('https://github.com/anshikavashistha/Kavach');
     });
     $('.pro4').click(function() {
-        window.open(' https://github.com/bhumithakur/music-album');
+        window.open(' ');
     });
 
     $('.pro5').click(function() {
-        window.open('https://github.com/bhumithakur/automation');
+        window.open('https://github.com/kubernetes/node-problem-detector/pull/794');
     });
 
     $('.pro6').click(function() {
-        window.open('https://github.com/bhumithakur/Digital-Clock');
+        window.open('https://github.com/kubernetes/dns/pull/595');
     });
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["a Competitive Programmer", "a Web Developer", "a Learner","a Content Creator", "a explorer"],
+        strings: ["AI Intern", "a Web Developer", "a Learner","a Content Creator", "a explorer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["a Coder", "a Web Developer", "a Learner", "a explorer"],
+        strings: ["Data Science Learner", "a Web Developer", "a Learner", "a explorer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
